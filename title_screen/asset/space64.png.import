@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/space64.png-2c54eac9da9c62a3bcc6733d426fb131.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://title_screen/asset/space64.png"
+dest_files=[ "res://.import/space64.png-2c54eac9da9c62a3bcc6733d426fb131.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
